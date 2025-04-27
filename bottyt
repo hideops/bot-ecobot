@@ -143,4 +143,4 @@ async def reuse(ctx):
     await ctx.send(reuse1())
 
 
-bot.run('MTA5MTc3NjE3MDUzMTUwODI1NA.G8eYdG.er7NYr697QEjPRxEWN5woxMCFIMrjCdTiad0rk')
+bot.run('токен')
